@@ -1,0 +1,69 @@
+.home-pg-bg-container {
+    background-color: #0d2436;
+    background-size: cover;
+    height: 100%;
+}
+
+.image1 {
+    height: 90px;
+    width: 180px;
+}
+
+.follow-us-container {
+    background-color: #152c3e;
+    border-radius: 40px;
+    height: 40px;
+    width: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 15px;
+
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 20px;
+}
+
+.para {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.heading {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.footer-section-list {
+    list-style-type: none;
+    padding-left: 0;
+
+}
+
+.footer-section-item {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.hr-line {
+    background-color: blue;
+    width: 100%;
+}
+
+.copyright-container {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
