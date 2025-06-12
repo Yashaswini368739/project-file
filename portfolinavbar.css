@@ -1,0 +1,58 @@
+.portofolio-logo {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 700;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #4b6cc1;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+#navitem1 {
+    color: white;
+}
+
+#navitem2 {
+    color: white;
+}
+
+#navitem3 {
+    color: white;
+}
+
+#navitem4 {
+    color: white;
+}
+
+#navitem5 {
+    color: white;
+}
+
+#navitem6 {
+    color: white;
+    border-radius: 2px;
+    border-color: #4b6cc1;
+}
+
+.navbar-bg-container {
+    background-color: #191a1d;
+
+    height: 100vh;
+}
+
+.vr-navbar-image {
+    width: 280px;
+    margin-bottom: 10px;
+}
+
+.navbar-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 40px;
+}
+
+.bluename {
+    color: #4b6cc1;
+}
