@@ -1,0 +1,31 @@
+
+
+.home-page-bg-container{
+    background-color:#0d2436;
+    background-size:cover;
+    height:100vh;
+}
+.image1{
+    border-radius:40px;
+    height:100px;
+    width:100px;
+}
+.heading{
+    color:#cced00;
+    font-family:"Roboto";
+    font-size:24px;
+    font-weight:bold;
+}
+.para{
+    color:#5a7184;
+}
+.icon{
+    color:#5a7184;
+  font-size:20px;
+}
+.footer-section-container{
+    text-align:center;
+    color:#ffffff;
+    background-color:#001c32;
+    padding:10px;
+}
