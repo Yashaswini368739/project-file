@@ -1,0 +1,44 @@
+.home-pg-bg-container {
+    background-color: white;
+    background-size: cover;
+}
+
+.heading {
+    color: #323f4b;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.menu-item-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    height: 70vh;
+    border-radius: 12px;
+}
+
+.custom-button {
+    border-radius: 22px;
+    background-color: white;
+    color: #ff9f00;
+    height: 40px;
+    width: 118px;
+    border-width: 0px;
+}
+
+.title {
+    color: white;
+    font-size: 34px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.para {
+    color: #ffffff;
+}
+
+.menu-item-cardtwo {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    height: 70vh;
+    border-radius: 12px;
+}
