@@ -1,0 +1,115 @@
+.Avenue-bg-pg {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.Avenue-bottom-card {
+    background-color: #ffffff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 30vh;
+    margin: 0px;
+    text-align: center;
+}
+
+.Avenue-heading {
+    color: #f19116;
+    font-size: 24px;
+    font-family: "Bree Serif";
+    padding: 25px;
+}
+
+.Avenue-paragraph {
+    color: #7b8794;
+    font-family: "Bree Serif";
+    font-size: 16px;
+}
+
+.Avenue-button {
+    height: 32px;
+    width: 112px;
+    color: #ffffff;
+    background-color: #f19116;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-width: 0px;
+   margin:20px;
+}
+
+.Flats-list-bg {
+    background-color: black;
+    background-size: cover;
+}
+
+.flats-card {
+    border-radius: 6px;
+    background-color: #ffffff;
+    height: 30vh;
+    margin: 10px;
+}
+
+.Flats-image1 {
+    height: 30vh;
+    width: 20vw;
+}
+
+.Flats-card-heading {
+    font-family: "Bree Serif";
+    font-size: 20px;
+    
+    font-weight: bold;
+}
+
+.Flats-paragraph {
+    padding: 5px;
+    font-family: "Bree Serif";
+    font-size: 11px;
+    color: #7b8794;
+}
+
+.flat-page-description-Bg {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d1-img.png");
+    height: 45vh;
+    background-size: cover;
+}
+.bottom-card{
+    background-color:black;
+    height:100vh;
+    background-size:cover;
+}
+.Location-image{
+    height:5vh;
+    width:5vw;
+    margin:5px;
+}
+.Avenue-paragraph1{
+    color:#ffffff;
+    font-size:12px;
+    font-family:"Bree Serif";
+    padding-left:5px;
+}
+.Avenue-button1{
+     height: 32px;
+    width: 112px;
+    color: #ffffff;
+    background-color: #f19116;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-width: 0px;
+    margin:10px;
+}
+.flat-page-description-Bg2{
+     background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d2-img.png");
+    height: 45vh;
+    background-size: cover;
+}
+.flat-page-description-Bg3{
+     background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d3-img.png");
+    height: 45vh;
+    background-size: cover;
+}
